@@ -9,6 +9,6 @@ class User:
 
         
         
-new_usuario = User('pedro','mmg','24')
+new_usuario = User('pedro','0349432','24')
 
 new_usuario.registrarUser()
